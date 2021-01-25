@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\LingTests\bin\Debug\netcoreapp3.1\LingTests.exe
+C:\Users\hp\source\repos\LingTests\bin\Debug\netcoreapp3.1\LingTests.deps.json
+C:\Users\hp\source\repos\LingTests\bin\Debug\netcoreapp3.1\LingTests.runtimeconfig.json
+C:\Users\hp\source\repos\LingTests\bin\Debug\netcoreapp3.1\LingTests.runtimeconfig.dev.json
+C:\Users\hp\source\repos\LingTests\bin\Debug\netcoreapp3.1\LingTests.dll
+C:\Users\hp\source\repos\LingTests\bin\Debug\netcoreapp3.1\LingTests.pdb
+C:\Users\hp\source\repos\LingTests\obj\Debug\netcoreapp3.1\LingTests.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\LingTests\obj\Debug\netcoreapp3.1\LingTests.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\LingTests\obj\Debug\netcoreapp3.1\LingTests.AssemblyInfo.cs
+C:\Users\hp\source\repos\LingTests\obj\Debug\netcoreapp3.1\LingTests.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LingTests\obj\Debug\netcoreapp3.1\LingTests.dll
+C:\Users\hp\source\repos\LingTests\obj\Debug\netcoreapp3.1\LingTests.pdb
+C:\Users\hp\source\repos\LingTests\obj\Debug\netcoreapp3.1\LingTests.genruntimeconfig.cache
